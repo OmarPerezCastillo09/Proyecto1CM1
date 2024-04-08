@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name" translatable="false">Pago Mercado</string>
+    <string name="Nombre_en_la_Tarjeta">Nombre en la Tarjeta</string>
+    <string name="Numero_de_Tarjeta">"Numero de Tarjeta "</string>
+    <string name="Fecha_de_Vencimiento">Fecha de Vencimiento</string>
+    <string name="cvv" translatable="false">CVV</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="Ingresa_CVV">Ingresa CVV</string>
+    <string name="Pagar">Pagar</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Click">Click en el Boton</string>
+    <string name="Procesando_Pago">Procesando Pago</string>
+    <string name="Total" translatable="false">Total $</string>
+    <string name="Total2" translatable="false">Total</string>
+    <string name="Ingrese_Dato">Ingrese Dato</string>
+    <string name="Escribe_Correo">Escribe Correo</string>
+    <string name="Monto_Total">Monto Total de tu Compra %1$d </string>
+    <string name="Ingrese_DatoValido">Ingrese Dato Valido</string>
+    <string name="Compra">Felicidades %1$s tu compra fue exitosa</string>
+    <string name="Tarjeta_Vencida">"Tarjeta vencida "</string>
+    <string name="Dato">"Dato no valido "</string>
+    <string name="MasterCard" translatable="false">MasterCard</string>
+    <string name="Visa" translatable="false">Visa</string>
+    <string name="AmericanExpress" translatable="false">American Express</string>
+    <string name="MM" translatable="false">MM</string>
+    <string name="YYYY" translatable="false">YYYY</string>
+    <string name="CorreoCompra">Se enviara un Correo de confirmacion a %1$s</string>
+    <string name="NoCompra">Disculpa %1$s  tu compra fue rechazada</string>
+    <string name="NoCorreo">Se enviara un Correo de Cancelacion a %1$s</string>
+    <string name="Pesos" translatable="false">$ %1$d</string>
+    <string name="ClickEn">Usuario dio Click en el boton</string>
+</resources>

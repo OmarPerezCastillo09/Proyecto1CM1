@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Nombre_en_la_Tarjeta">Card Name</string>
+    <string name="Numero_de_Tarjeta">Card Number</string>
+    <string name="Fecha_de_Vencimiento">Due Date</string>
+    <string name="correo">Email</string>
+    <string name="Ingresa_CVV">Get into CVV</string>
+    <string name="Pagar">Pay</string>
+    <string name="Ingresar">Get into</string>
+    <string name="Click">Click the Button</string>
+    <string name="Procesando_Pago">Processing Payment</string>
+    <string name="Ingrese_Dato">Enter  Data</string>
+    <string name="Escribe_Correo">Write email</string>
+    <string name="Monto_Total">"Total amount of your purchase %1$d "</string>
+    <string name="Ingrese_DatoValido">Enter valid data</string>
+    <string name="Compra">Congratulations %1$s your purchase was successful</string>
+    <string name="Tarjeta_Vencida">Expired Card</string>
+    <string name="Dato">Invalid Data</string>
+    <string name="CorreoCompra">A confirmation email will be sent to %1$s</string>
+    <string name="NoCompra">Sorry %1$s your purchase was rejected</string>
+    <string name="NoCorreo">A cancellation email will be sent to %1$s</string>
+    <string name="ClickEn">User clicked on the button</string>
+</resources>

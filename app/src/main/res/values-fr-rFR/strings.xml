@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Nombre_en_la_Tarjeta">Nom de la carte</string>
+    <string name="Numero_de_Tarjeta">Numero de carte</string>
+    <string name="Fecha_de_Vencimiento">Date d\'expiration</string>
+    <string name="correo">Courrier electronique</string>
+    <string name="Ingresa_CVV">Enter dans CVV</string>
+    <string name="Pagar">Payer</string>
+    <string name="Ingresar">"Enter dans "</string>
+    <string name="Click">Cliquez sur le bouton</string>
+    <string name="Procesando_Pago">Traitemennt du paiement</string>
+    <string name="Ingrese_Dato">Enter des Données</string>
+    <string name="Escribe_Correo">Escrire un email</string>
+    <string name="Monto_Total">"Montant total de votre achat %1$d "</string>
+    <string name="Ingrese_DatoValido">saisir des données valides</string>
+    <string name="Compra">Félicitations %1$s votre achat a été réussi</string>
+    <string name="Tarjeta_Vencida">Carte expirée</string>
+    <string name="Dato">Données invalides</string>
+    <string name="CorreoCompra">Un email de confirmation sera envoyé á %1$s</string>
+    <string name="NoCompra">désolé %1$s votre achat a été rejeté</string>
+    <string name="NoCorreo">Un email d´annulation sera envoyé a´%1$s</string>
+    <string name="ClickEn">L’utilisateur a cliqué sur le bouton</string>
+</resources>
